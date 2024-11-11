@@ -55,7 +55,7 @@
   </ul>
 </div>
 <p align="center">
-<a href="www.linkedin.com/in/lisbeth-a-153601234/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lisbeth-a-153601234/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
   <a href="https://github.com/LisbethArt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
 </p>
 <br>
