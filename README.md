@@ -3,7 +3,7 @@
   <ul align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <summary><h1 align="center">Hola, soy LisbethArt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
-    <img src="https://i.imgur.com/Qx8KWph.png"><br><br>
+    <img src="https://i.imgur.com/wzj9Vtf.png"><br><br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </ul>
 </div>
@@ -55,7 +55,7 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/lisbeth-argueta-153601234/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/lisbeth-a-153601234/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
   <a href="https://github.com/LisbethArt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
 </p>
 <br>
